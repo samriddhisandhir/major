@@ -24,7 +24,7 @@ int xc;
 int yc;
 int load_cap;
 };
-//Structure for blockages
+//Structure for  blockages
 struct bl
 {
 int coord1;
